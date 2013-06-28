@@ -16,3 +16,5 @@ facebook/target
 .idea/workspace.xml
 .idea/dictionaries/
 .idea/inspectionProfiles/
+.gradle/
+build/
